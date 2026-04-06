@@ -1,0 +1,8 @@
+{
+  "lang": "haskell_persistent",
+  "max_version": null,
+  "location": null,
+  "min_version": null,
+  "url": "https://github.com/MercuryTechnologies/tree-sitter-haskell-persistent",
+  "semver": false
+}
