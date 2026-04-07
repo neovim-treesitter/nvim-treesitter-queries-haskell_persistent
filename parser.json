@@ -2,6 +2,5 @@
   "lang": "haskell_persistent",
   "url": "https://github.com/MercuryTechnologies/tree-sitter-haskell-persistent",
   "semver": false,
-  "parser_version": "577259b4068b2c281c9ebf94c109bd50a74d5857",
-  "location": null
+  "parser_version": "577259b4068b2c281c9ebf94c109bd50a74d5857"
 }
